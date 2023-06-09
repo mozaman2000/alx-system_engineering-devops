@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod chmod 744 hello
+chmod -R 744 folder_name
