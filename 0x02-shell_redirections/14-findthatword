@@ -1,2 +1,2 @@
 #!/bin/bash
-cat | grep -n "root" /etc/passwd | cut -c 4-
+grep -i "root" /etc/passwd
